@@ -1,6 +1,7 @@
 .centrar{
     text-align: center;
     background-color: rgb(230, 144, 211);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .imagen{
     width: 8%;
