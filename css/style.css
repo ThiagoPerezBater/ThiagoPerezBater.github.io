@@ -21,7 +21,7 @@
 }
 .cabecera{
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
+    grid-template-columns: repeat(5, 1fr);
     grid-gap: 50px;
     padding: 45xp 320xp;
 }
