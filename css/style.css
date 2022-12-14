@@ -1,11 +1,11 @@
 .centrar{
     text-align: center;
     background-color: rgb(225, 175, 245);
-   
+    font-style: oblique;
 }
 .imagen{
-    width: 8%;
-    height: 8%;
+    width: 50%;
+    height: 90%;
 }
 
 .image{
@@ -14,4 +14,14 @@
 }
 .navegador{
     text-align: start;
+}
+.p{
+    font: size -100%;
+    font-style: normal;
+}
+.cabecera{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 50px;
+    padding: 45xp 320xp;
 }
